@@ -1,0 +1,2 @@
+SELECT DISTINCT pub_id FROM titles
+WHERE YEAR(pubdate)=1991;
