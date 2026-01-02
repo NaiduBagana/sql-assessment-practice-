@@ -3,7 +3,7 @@
 This repository contains **MS SQL Server assessment questions with complete solutions**.  
 The focus of this assessment is to evaluate understanding of **T-SQL, database design, joins, aggregation, string functions, subqueries, views, and data manipulation**.
 
-This assessment is suitable for **DBMS exams, campus assessments, and SQL interviews**.
+
 
 ---
 
