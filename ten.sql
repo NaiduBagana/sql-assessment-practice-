@@ -1,0 +1,3 @@
+SELECT title FROM titles
+WHERE sales BETWEEN 10000 AND 20000
+ORDER BY price;

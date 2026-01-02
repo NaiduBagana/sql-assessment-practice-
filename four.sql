@@ -1,0 +1,1 @@
+SELECT title FROM titles WHERE sales>50000 AND royalty<20;

@@ -1,0 +1,1 @@
+SELECT title FROM titles WHERE title LIKE '%s' OR title LIKE '%t';
