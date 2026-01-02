@@ -1,6 +1,6 @@
-# 📝 MS SQL Server Assessment – Practice Questions & Solutions
+# 📝 MS SQL Server Assessment – Solutions
 
-This repository contains **MS SQL Server assessment questions with complete solutions**.  
+This repository contains **MS SQL Server assessment complete solutions**.  
 The focus of this assessment is to evaluate understanding of **T-SQL, database design, joins, aggregation, string functions, subqueries, views, and data manipulation**.
 
 
@@ -22,7 +22,7 @@ The assessment is based on a **book publishing database** and includes:
 - Database creation
 - Table design with constraints
 - Sample data insertion
-- 34 SQL assessment questions with answers
+- 34 SQL assessment questions
 
 ---
 
